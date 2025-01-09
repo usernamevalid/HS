@@ -1,1 +1,1 @@
-SUBDIRS = drc
+SUBDIRS = src
